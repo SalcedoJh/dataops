@@ -4,6 +4,7 @@ import pandas as pd
 archivo_txt = 'Claro_Peru_Asegurados_20022021234238.txt'
 archivo_cvs= 'agregado.txt'
 archivo2_cvs= 'julio .txt'
+archivo2_mongoDB= 'julio .txt'
 
 try:
     # Leer el archivo TXT
