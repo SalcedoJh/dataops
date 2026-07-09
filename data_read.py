@@ -2,6 +2,7 @@ import pandas as pd
 
 # Ruta del archivo TXT
 archivo_txt = 'Claro_Peru_Asegurados_20022021234238.txt'
+archivo_cvs= 'agregado.cvs'
 
 try:
     # Leer el archivo TXT
