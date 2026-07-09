@@ -2,6 +2,7 @@ import pandas as pd
 
 # Ruta del archivo CSV intermedio
 archivo_csv = 'clientes.csv'
+archivo_txt = 'neevos_cliente.csv'
 
 try:
     # Leer el archivo CSV
